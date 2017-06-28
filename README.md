@@ -30,13 +30,13 @@
 
 ### 核心项目 
 
-###### AirDroid (jQuery + requirejs)
+#### AirDroid (jQuery + requirejs)
 
 项目地址: http://web.airdroid.com/
 
 AirDorid可以让你在 web 上随时随地管理你的手机。我负责重构和维护照片、视频、铃声、音乐、应用程序模块，并解决了很多项目长期遗留的疑难bug（例如：视频在三星某款chromebook上无法播放）。期间为与Samsung合作将AirDroid内置在新版chromebook中，必须满足Google对WAI-ARIA（无障碍网页应用）的规范的要求，对整个项目进行了无障碍改造(https://github.com/zhiyul/blog/blob/master/201509/01.md)，获得了三星和Google的肯定。
 
-###### 一元进宝 mobile (vue + webpack + babel + ES6)
+#### 一元进宝 mobile (vue + webpack + babel + ES6)
 
 项目地址: https://m.yyjinbao.com
 
