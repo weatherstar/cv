@@ -5,6 +5,7 @@
 -  职位: 前端开发工程师
 -  Github： https://github.com/zhiyul
 -  博客：https://github.com/zhiyul/blog  
+-  个人粉丝论坛: https://zhiyu.xiaogege.men/
 ### 技能
 
 * 语言： html  /css / __javascript__ / node / python
