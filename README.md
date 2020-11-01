@@ -4,17 +4,21 @@
 -  教育：2009-2013 本科 / 厦门大学软件学院 
 -  职位: 前端开发工程师
 -  Github： https://github.com/zhiyul
--  博客：https://github.com/zhiyul/blog  
--  个人粉丝论坛: https://zhiyu.xiaogege.men/
 ### 技能
 
-* 语言： html  /css / __javascript__ / node / python
-* 技术栈： __vue__ / __react__ / jQuery
-* etc：webpack / gulp /  git / docker / jenkins / CI
+* 语言： html  /css / __javascript__ / typescript / graphql / node 
+* 技术栈： __react__ / vue  / apollo / express 
+* etc：webpack / jest / gulp /  git / newrelic / buildkite / aws
 
 ### 工作经验
 
-2016.10-至今 @Ubiquiti Networks（厦门）前端开发负责人
+2018.08-至今 @ThoughtWorks（西安）高级前端开发工程师
+
+- 负责项目中前端, api核心模块的开发与维护并解决前端相关的技术难题，承担部分运维，测试工作
+- 负责组内新人的技术指导与培养
+- 负责海外客户的日常维护工作
+
+2016.10-2018.07 @Ubiquiti Networks（厦门）前端开发负责人
 
 - 负责项目的技术选型、基础架构、代码审核
 - 负责厦门研发中心前端招聘、组内成员工作安排、技术培训指导
@@ -31,7 +35,9 @@
 
 ### 核心项目
 
-#### FrontRow Cloud (vue + webpack)
+#### REA News and Lifestyle(react)
+
+#### FrontRow Cloud (vue)
 
 项目地址: https://cloud.frontrow.com.cn/
 
@@ -39,7 +45,7 @@
 
 FrontRow Cloud 是基于 webRTC 的在web上管理  [FrontRow 可穿戴便携摄像机](https://www.frontrow.com.cn/) ，支持局域网和远程连接。主要功能包括：管理设备媒体资源、camera preview、发起直播 \ 拍摄 \ story、设备设置等。我负责整个项目前期的需求分析、技术选型、基础架构以及后期大部分的开发工作。在现有第三方 webRTC 库不能满足项目需求的情况下，封装了私有的 webRTC 库，连接快速稳定，支持多设备。项目代码结构设计清晰，模块划分合理，编码规范， 后加入的开发人员都能很快熟悉项目并接手。
 
-#### AirDroid (jQuery + requirejs)
+#### AirDroid (jQuery)
 
 项目地址: http://web.airdroid.com/
 
