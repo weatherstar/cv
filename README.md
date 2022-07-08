@@ -3,10 +3,10 @@
 -  男 / 1992 / 陕西 西安 
 -  教育：2009-2013 本科 / 厦门大学软件学院 
 -  职位：前端开发工程师
--  Github：https://github.com/zhiyul
+-  Github：https://github.com/weatherstar
 ### 技能
 
-* 语言： html / css / __javascript__ / typescript / graphql / node 
+* 语言： html / css / __javascript__ / typescript / graphql / node / solidity 
 * 技术栈： __react__ / vue / apollo / express
 * etc：webpack / jest / gulp / git / newrelic / buildkite / aws
 
